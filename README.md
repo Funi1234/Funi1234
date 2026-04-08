@@ -54,9 +54,9 @@ Previously built stuff at Uber, Kargo Media, and SETU doing EU research projects
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats-funi1234s-projects.vercel.app/api?username=Funi1234&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=EE0000&icon_color=EE0000&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-funi1234s-projects.vercel.app/api?username=Funi1234&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=EE0000&icon_color=EE0000&v=2)
 
-![Top Languages](https://github-readme-stats-funi1234s-projects.vercel.app/api/top-langs/?username=Funi1234&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=EE0000&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-funi1234s-projects.vercel.app/api/top-langs/?username=Funi1234&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=EE0000&v=2)
 
 </div>
 
