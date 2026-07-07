@@ -69,7 +69,7 @@ Previously built stuff at Uber, Kargo Media, and SETU doing EU research projects
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 <img src="https://images.squarespace-cdn.com/content/v1/5b9fbfdffcf7fd7add666e17/1594741812563-I15J9IZJ8HGEC7M948XM/Kargo+Logo.png?format=1500w" height="28" alt="Kargo"/>
 <img src="https://www.hatchwise.com/wp-content/uploads/2025/01/image-16.png" height="28" alt="Uber"/>
-<img src="https://routematch.wpenginepowered.com/wp-content/uploads/2020/06/Blue-logo_Routematch.png" height="28" alt="RouteMatch"/>
+<img src="https://img.masstransitmag.com/files/base/cygnus/mass/image/2017/10/RouteMatch_2017_logo.59e0e4d95992a.png" height="28" alt="RouteMatch"/>
 
 **Senior Software Engineer** | Data Engineering, Full-Stack Development, iOS
 
