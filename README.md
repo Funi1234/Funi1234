@@ -54,9 +54,9 @@ Previously built stuff at Uber, Kargo Media, and SETU doing EU research projects
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats-omega-beige-32.vercel.app/api?username=Funi1234&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=EE0000&icon_color=EE0000)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Funi1234&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=EE0000&icon_color=EE0000)
 
-![Top Languages](https://github-readme-stats-omega-beige-32.vercel.app/api/top-langs/?username=Funi1234&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=EE0000)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Funi1234&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=EE0000)
 
 </div>
 
@@ -68,7 +68,7 @@ Previously built stuff at Uber, Kargo Media, and SETU doing EU research projects
 
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 <img src="https://images.squarespace-cdn.com/content/v1/5b9fbfdffcf7fd7add666e17/1594741812563-I15J9IZJ8HGEC7M948XM/Kargo+Logo.png?format=1500w" height="28" alt="Kargo"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Uber_logo_2018.svg" height="28" alt="Uber"/>
+<img src="https://www.hatchwise.com/wp-content/uploads/2025/01/image-16.png" height="28" alt="Uber"/>
 <img src="https://routematch.wpenginepowered.com/wp-content/uploads/2020/06/Blue-logo_Routematch.png" height="28" alt="RouteMatch"/>
 
 **Senior Software Engineer** | Data Engineering, Full-Stack Development, iOS
